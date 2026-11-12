@@ -1,0 +1,6 @@
+{
+  "name": "Horizon",
+  "description": "Full-screen ambient clock, focus timer, and guided breathing studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
